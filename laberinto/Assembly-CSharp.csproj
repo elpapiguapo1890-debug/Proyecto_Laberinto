@@ -50,9 +50,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Pared.cs" />
+    <Compile Include="Assets\Scripts\Rotar.cs" />
     <Compile Include="Assets\Scripts\Mover.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\Respawn.cs" />
+    <Compile Include="Assets\Scripts\ganaste.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

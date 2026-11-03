@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\elpap\\Documents\\GitHub\\Laberinto\\laberinto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\elpap\\documents\\github\\laberinto\\laberinto\\assets\\scripts\\ganaste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ganaste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\elpap\\Documents\\GitHub\\Laberinto\\laberinto\\Assets\\Scripts\\Rotar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Rotar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\elpap\\documents\\github\\laberinto\\laberinto\\assets\\scripts\\pared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pared.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ganaste.cs",
+              "DocumentMoniker": "C:\\Users\\elpap\\Documents\\GitHub\\Laberinto\\laberinto\\Assets\\Scripts\\ganaste.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ganaste.cs",
+              "ToolTip": "C:\\Users\\elpap\\Documents\\GitHub\\Laberinto\\laberinto\\Assets\\Scripts\\ganaste.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ganaste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:16:14.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Pared.cs",
               "DocumentMoniker": "C:\\Users\\elpap\\Documents\\GitHub\\Laberinto\\laberinto\\Assets\\Scripts\\Pared.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Pared.cs",
@@ -27,6 +48,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwCAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T16:28:22.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rotar.cs",
+              "DocumentMoniker": "C:\\Users\\elpap\\Documents\\GitHub\\Laberinto\\laberinto\\Assets\\Scripts\\Rotar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rotar.cs",
+              "ToolTip": "C:\\Users\\elpap\\Documents\\GitHub\\Laberinto\\laberinto\\Assets\\Scripts\\Rotar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rotar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T15:02:39.992Z",
               "EditorCaption": ""
             }
           ]

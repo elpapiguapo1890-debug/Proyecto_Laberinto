@@ -2,7 +2,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class NewMonoBehaviourScript : MonoBehaviour
+public class mover : MonoBehaviour
 {
     //enteros ---> int
     // decimales --> float (f)
